@@ -1,34 +1,41 @@
-# ADmyBRAND Insights
+# ADmyBRAND Insights Dashboard
 
-A modern analytics dashboard built with Next.js, Tailwind CSS, and shadcn/ui.
+A modern, AI-powered analytics dashboard for digital marketing agencies — built for speed, beauty, and usability using AI tools.
 
-## 🚀 Features
-- Overview Cards: Revenue, Users, Growth
-- Interactive Charts (Line, Bar, Pie)
-- Data Table (sortable)
-- Dark/Light Mode Toggle
-- Responsive Layout
-- Modern UI Design
+##  Features
 
-## 📦 Tech Stack
-- Next.js 14
-- Tailwind CSS + shadcn/ui
-- TypeScript
-- Recharts
-- next-themes
+- Metrics Overview (Revenue, Users, Conversions, Growth %)
+-  Interactive Charts (Line, Bar, Pie)
+- CSV Upload & Table Analysis
+- Data Table with Sorting + Filtering
+- Light/Dark Theme Toggle
+- Fully Responsive (Mobile / Tablet / Desktop)
+- Simulated Real-Time Updates
+- Beautiful Loading Skeletons
+- CSV Export (Bonus)
 
-## 🧠 AI Usage Report
+## 📸 Screenshots
 
-### AI Tools Used
-- ChatGPT (architecture, code scaffolding)
-- GitHub Copilot (inline coding assistance)
-- v0.dev (UI generation)
+> _Add screenshots from your app if possible (e.g., dashboard view, chart, upload section)._
 
-### Sample Prompts
-1. "Generate a responsive dashboard with metric cards and charts in Next.js"
-2. "Fix module path alias error in Next.js"
-3. "Create a DataTable with pagination and sorting using shadcn"
+##  Tech Stack
 
-### AI vs Manual Work Split
-- AI-generated: 60% (layout, card, chart logic)
-- Manual: 40% (custom styling, component integration)
+- **Next.js 14+ (App Router)**
+- **TypeScript**
+- **Tailwind CSS**
+- **shadcn/ui**
+- **PapaParse**
+- **Chart.js or Recharts**
+
+##  Local Setup
+
+```bash
+git clone https://github.com/your-username/ADmyBRAND_Insights.git
+cd ADmyBRAND_Insights
+npm install
+npm run dev
+
+
+
+
+##  Report of ADmyBrand_Insight: ---- [View AI Usage Report](./AI_REPORT.md)
