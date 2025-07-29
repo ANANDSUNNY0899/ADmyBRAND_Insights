@@ -16,7 +16,7 @@ A modern, AI-powered analytics dashboard for digital marketing agencies — buil
 
 ## 📸 Screenshots
 
-> _Add screenshots from your app if possible (e.g., dashboard view, chart, upload section)._
+> (public/Screenshot (69).png)
 
 ##  Tech Stack
 
