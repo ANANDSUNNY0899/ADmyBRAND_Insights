@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ADmyBRAND Insights
 
-## Getting Started
+A modern analytics dashboard built with Next.js, Tailwind CSS, and shadcn/ui.
 
-First, run the development server:
+## 🚀 Features
+- Overview Cards: Revenue, Users, Growth
+- Interactive Charts (Line, Bar, Pie)
+- Data Table (sortable)
+- Dark/Light Mode Toggle
+- Responsive Layout
+- Modern UI Design
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📦 Tech Stack
+- Next.js 14
+- Tailwind CSS + shadcn/ui
+- TypeScript
+- Recharts
+- next-themes
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🧠 AI Usage Report
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### AI Tools Used
+- ChatGPT (architecture, code scaffolding)
+- GitHub Copilot (inline coding assistance)
+- v0.dev (UI generation)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Sample Prompts
+1. "Generate a responsive dashboard with metric cards and charts in Next.js"
+2. "Fix module path alias error in Next.js"
+3. "Create a DataTable with pagination and sorting using shadcn"
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### AI vs Manual Work Split
+- AI-generated: 60% (layout, card, chart logic)
+- Manual: 40% (custom styling, component integration)
