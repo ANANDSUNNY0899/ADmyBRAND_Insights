@@ -1,5 +1,13 @@
 # ADmyBRAND Insights Dashboard
 
+
+
+##  Live Demo  
+[View Live Dashboard](https://a-dmy-brand-insights-weld.vercel.app/dashboard)
+
+
+
+
 A modern, AI-powered analytics dashboard for digital marketing agencies — built for speed, beauty, and usability using AI tools.
 
 ##  Features
@@ -35,7 +43,37 @@ cd ADmyBRAND_Insights
 npm install
 npm run dev
 
+Then Visit:http://localhost:3000/dashboard
+
+
+-------------------------
+
+📂 Folder Structure
+
+src/
+├── app/
+│   ├── layout.tsx
+│   ├── page.tsx
+│   └── dashboard/page.tsx
+├── components/
+│   └── dashboard/
+│       ├── MetricCard.tsx
+│       ├── ChartCard.tsx
+│       └── CSVAnalyzer.tsx
+│   └── ui/
+│       ├── button.tsx
+│       ├── card.tsx
+│       ├── table.tsx
+├── data/
+│   └── mockMetrics.ts
+├── lib/
+│   └── utils.ts
+└── styles/
+    └── globals.css
 
 
 
-##  Report of ADmyBrand_Insight: ---- [View AI Usage Report](./AI_REPORT.md)
+
+
+
+AI Usage Report - View AI Usage Report(./AI_REPORT.md)
